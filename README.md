@@ -14,7 +14,7 @@ Global Solution 2026.2 · CitizenTech · **Nicoli Amy Kassa | RM559104**
 | **Problema em uma frase** | Os avós guardam receitas, histórias da família e memórias do bairro que ninguém mais tem, mas, quando mandam um "bom dia" no grupo da família, recebem de volta um 👍 e nenhuma pergunta. |
 | **A solução** | O Me Conta é um aplicativo que troca o 👍 da família por uma pergunta que só os avós sabem responder. |
 | **Como funciona** | O neto escolhe uma pergunta no app. O app abre o WhatsApp com a mensagem pronta. O avô responde por áudio, do jeito que já sabe, e a resposta vira uma página do caderno da família, com áudio, foto e título. |
-| **Link do repositório** | `[inserir link do repositório]` |
+| **Link do repositório** | [inserir link do repositório](https://github.com/Nicoli-Kassa/GS_CitizenTech_IA-ML_MeConta) |
 | **Indicador de impacto** | Conversas de verdade por semana: % de idosos que respondem pelo menos uma pergunta da família por semana. |
 | **ODS conectados** | **ODS 10**, meta 10.2 · **ODS 11**, meta 11.4 · **ODS 3**, meta 3.4 |
 
@@ -47,7 +47,7 @@ Os números saem das saídas do notebook; o relatório resume e discute cada um.
 ## Estrutura
 
 ```
-IA&ML/                               ← raiz do repositório
+GS_CitizenTech_IA-ML_MeConta/        ← raiz do repositório
 ├── README.md                        ← este arquivo
 └── ml/
     ├── GS2026_IA_ML_MeConta.ipynb   ← notebook executado: exploração, preparação, modelo, busca, resultados e conclusão
@@ -102,6 +102,5 @@ Os microdados do IBGE são anonimizados. Este módulo não usa nenhum dado pesso
 |---|---|
 | Notebook executado | [`ml/GS2026_IA_ML_MeConta.ipynb`](ml/GS2026_IA_ML_MeConta.ipynb) |
 | Relatório | [`ml/RELATORIO_ML.md`](ml/RELATORIO_ML.md) |
-| Dados e reprodução | [`ml/dados/README.md`](ml/dados/README.md) |
-| Uso de IA generativa | [`ml/prompts.md`](ml/prompts.md) |
+| Dados e reprodução | [`ml/dados/README.md`](ml/dados/README.md) | 
 | Vídeo (YouTube, não listado) | `[inserir link]` |

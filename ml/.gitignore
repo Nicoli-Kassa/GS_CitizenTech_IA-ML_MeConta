@@ -1,0 +1,18 @@
+# Dados brutos do IBGE: são grandes e públicos. Baixe do FTP (veja dados/README.md).
+# A pasta fica no repositório (vazia, com .gitkeep) para mostrar onde colocar os arquivos.
+dados/brutos/*
+!dados/brutos/.gitkeep
+
+# O CSV repete o conteúdo do .parquet. Só o .parquet vai para o repositório.
+dados/processados/*.csv
+
+# Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db

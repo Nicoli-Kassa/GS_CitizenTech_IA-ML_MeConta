@@ -2,7 +2,7 @@
 
 **Quais idosos têm mais chance de estar desconectados da internet?**
 Global Solution 2026.2 · CitizenTech · Nicoli Amy Kassa | RM559104
-Notebook: `GS2026_IA_ML_MeConta.ipynb` · Vídeo (YouTube, não listado): `[inserir link]`
+Notebook: `GS2026_IA_ML_MeConta.ipynb` · Vídeo (YouTube, não listado): [`Pitch - Me Conta`](https://youtu.be/F_s7jXz_GzU?si=IpbDuKCQPBvzgHmb)
 
 ## 1. Pergunta e dados
 

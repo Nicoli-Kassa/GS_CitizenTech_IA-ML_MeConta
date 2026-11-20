@@ -103,4 +103,4 @@ Os microdados do IBGE são anonimizados. Este módulo não usa nenhum dado pesso
 | Notebook executado | [`ml/GS2026_IA_ML_MeConta.ipynb`](ml/GS2026_IA_ML_MeConta.ipynb) |
 | Relatório | [`ml/RELATORIO_ML.md`](ml/RELATORIO_ML.md) |
 | Dados e reprodução | [`ml/dados/README.md`](ml/dados/README.md) | 
-| Vídeo (YouTube, não listado) | `[inserir link]` |
+| Vídeo (YouTube, não listado) | [`Pitch - Me Conta`](https://youtu.be/F_s7jXz_GzU?si=IpbDuKCQPBvzgHmb) |
